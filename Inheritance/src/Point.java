@@ -1,5 +1,5 @@
 class Point {
-
+// ASSINGMENT 3.
     private double xCoordinate;
     private double yCoordinate;
 
